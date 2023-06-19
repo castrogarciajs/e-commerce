@@ -16,3 +16,17 @@ It is a clothing e-commerce designed to give users an easy, convenient and excit
 
 - Go v1.20
 - fiber v2
+
+## Installation
+
+1. Clone the repository
+
+```git
+git clone https://github.com/sebastian009w/e-commerce
+```
+
+2. Go to the project directory
+
+```sh
+cd e-commerce
+```
