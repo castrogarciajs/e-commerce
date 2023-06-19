@@ -30,3 +30,11 @@ git clone https://github.com/sebastian009w/e-commerce
 ```sh
 cd e-commerce
 ```
+
+## Contribution
+
+- Sebastian009w
+
+## License
+
+- MIT LICENSE
