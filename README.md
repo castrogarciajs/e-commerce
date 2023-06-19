@@ -11,3 +11,8 @@ It is a clothing e-commerce designed to give users an easy, convenient and excit
 - Shopping cart and checkout process: We make it easy for users to select products, add to the shopping cart and secure and reliable checkout process.
 
 - User account management: Users can create and manage their accounts, view their purchase history, and save favorite products.
+
+## System Requirements
+
+- Go v1.20
+- fiber v2
