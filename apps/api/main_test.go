@@ -24,4 +24,5 @@ func TestAppMethods(t *testing.T) {
 	app := fiber.New()
 
 	testStatus(t, app, "/", "GET")
+	testStatus(t, app, "/create", "POST")
 }
