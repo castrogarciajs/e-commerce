@@ -17,7 +17,8 @@ It is a clothing e-commerce designed to give users an easy, convenient and excit
 - Go v1.20
 - fiber v2
 - TypeScript v5
-- Deno v.1.34
+- preact v10
+- Deno v1.34
 - Fresh v1.2
 
 ## Installation
